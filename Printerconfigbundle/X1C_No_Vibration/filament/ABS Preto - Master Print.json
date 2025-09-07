@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.057"
+    ],
+    "filament_settings_id": [
+        "ABS Preto - Master Print"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "ABS Preto - Master Print",
+    "version": "2.1.0.18"
+}

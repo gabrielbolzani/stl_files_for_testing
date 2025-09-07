@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#008000"
+    ],
+    "filament_cost": [
+        "85"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.009"
+    ],
+    "filament_settings_id": [
+        "GTMAX ABS - Verde"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "GTMAX ABS - Verde",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "version": "2.2.0.2"
+}

@@ -1,0 +1,34 @@
+{
+    "additional_cooling_fan_speed": [
+        "65"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_cost": [
+        "200"
+    ],
+    "filament_settings_id": [
+        "TPU Voolt"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @BBL A1",
+    "is_custom_defined": "0",
+    "name": "TPU Voolt",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.10.0.32"
+}

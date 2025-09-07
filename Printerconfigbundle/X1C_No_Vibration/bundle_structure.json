@@ -1,0 +1,21 @@
+{
+    "bundle_id": "3021347696_X1 Carbon - No Vibration_1757212530",
+    "bundle_type": "printer config bundle",
+    "filament_config": [
+        "filament/ABS Branco - Maxprint.json",
+        "filament/ABS Preto - Master Print.json",
+        "filament/GTMAX ABS - Verde.json",
+        "filament/Generic PLA Flow Rate Calibrated_A1.json",
+        "filament/Generic PLA Flow Rate Calibrated_A4.json",
+        "filament/PETG Branco Voolt.json",
+        "filament/STLFlix - PLA - Cinza.json",
+        "filament/TPU - Print a Lot.json",
+        "filament/TPU PrintALot.json"
+    ],
+    "printer_config": [
+        "printer/X1 Carbon - No Vibration.json"
+    ],
+    "printer_preset_name": "X1 Carbon - No Vibration",
+    "process_config": [],
+    "version": "02.02.01.51"
+}

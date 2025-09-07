@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.969"
+    ],
+    "filament_settings_id": [
+        "ABS Branco - Maxprint"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "ABS Branco - Maxprint",
+    "version": "2.1.0.18"
+}

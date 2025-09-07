@@ -1,0 +1,27 @@
+{
+    "close_fan_the_first_x_layers": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "PETG Transparente"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL A1",
+    "name": "PETG Transparente",
+    "nozzle_temperature_range_high": [
+        "245"
+    ],
+    "nozzle_temperature_range_low": [
+        "245"
+    ],
+    "textured_plate_temp": [
+        "88"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "88"
+    ],
+    "version": "2.0.0.90"
+}

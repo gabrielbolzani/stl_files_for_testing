@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.951"
+    ],
+    "filament_settings_id": [
+        "PETG Branco Voolt"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "PETG Branco Voolt",
+    "version": "2.1.0.18"
+}

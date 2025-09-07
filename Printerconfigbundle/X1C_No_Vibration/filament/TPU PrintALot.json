@@ -1,0 +1,18 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "TPU PrintALot"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "name": "TPU PrintALot",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "version": "1.9.0.23"
+}

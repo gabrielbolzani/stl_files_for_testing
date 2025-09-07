@@ -1,0 +1,14 @@
+{
+    "bundle_id": "3021347696_K1 Max_1757212530",
+    "bundle_type": "printer config bundle",
+    "filament_config": [
+        "filament/ABS- Cliver-k1.json",
+        "filament/Cliver.json"
+    ],
+    "printer_config": [
+        "printer/K1 Max.json"
+    ],
+    "printer_preset_name": "K1 Max",
+    "process_config": [],
+    "version": "02.02.01.51"
+}

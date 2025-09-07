@@ -1,0 +1,13 @@
+{
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "TPU - Print a Lot"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "is_custom_defined": "0",
+    "name": "TPU - Print a Lot",
+    "version": "1.10.0.36"
+}

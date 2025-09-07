@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.048"
+    ],
+    "filament_settings_id": [
+        "Generic PLA Flow Rate Calibrated_A1"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Generic PLA Flow Rate Calibrated_A1",
+    "version": "2.0.0.89"
+}

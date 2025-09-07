@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.039"
+    ],
+    "filament_settings_id": [
+        "STLFlix - PLA - Cinza"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "STLFlix - PLA - Cinza",
+    "version": "2.2.0.2"
+}

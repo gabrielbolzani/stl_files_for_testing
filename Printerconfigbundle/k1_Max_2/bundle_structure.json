@@ -1,0 +1,14 @@
+{
+    "bundle_id": "3021347696_Creality K1 Max 0.4 nozzle_1757212530",
+    "bundle_type": "printer config bundle",
+    "filament_config": [
+        "filament/ABS- Cliver-k1.json",
+        "filament/Cliver.json"
+    ],
+    "printer_config": [
+        "printer/Creality K1 Max 0.4 nozzle.json"
+    ],
+    "printer_preset_name": "Creality K1 Max 0.4 nozzle",
+    "process_config": [],
+    "version": "02.02.01.51"
+}
